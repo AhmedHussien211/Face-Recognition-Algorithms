@@ -29,7 +29,6 @@ Eigenfaces is one of the earliest face recognition techniques. It projects face 
 - Reduces dimensionality while preserving maximum variance
 - Classification is typically done using nearest neighbor
 ![eigen](https://github.com/user-attachments/assets/d158e9e6-0810-4124-9cd0-b5951af9504d)
-![eigen2](https://github.com/user-attachments/assets/18eeddfe-1c1a-40fe-be50-0bf967991a69)
 
 **Pros:**
 - Simple and fast
@@ -48,7 +47,6 @@ Fisherfaces improves upon Eigenfaces by using Linear Discriminant Analysis (LDA)
 - Maximizes between-class variance and minimizes within-class variance
 - More robust to lighting and expression changes
 ![fisher1-1](https://github.com/user-attachments/assets/b2436e60-ad09-40bc-8067-7f4cfe6fb18e)
-<img width="908" height="411" alt="fisher3" src="https://github.com/user-attachments/assets/5c2416ca-4587-4156-8337-0f86c141f402" />
 
 **Pros:**
 - Better discrimination than PCA
@@ -65,7 +63,6 @@ LBPH is a texture-based method that encodes local patterns of pixels.
 
 - Converts local neighborhoods into binary patterns
 - Uses histograms to represent facial features
-<img width="667" height="186" alt="LBPH" src="https://github.com/user-attachments/assets/7e7415a6-3601-41b1-9b91-1d235e7ede5b" />
 <img width="1600" height="403" alt="LBPH1" src="https://github.com/user-attachments/assets/006a6a47-97d4-4ded-b058-d3a80e38482a" />
 
 **Pros:**
@@ -84,7 +81,6 @@ This approach combines feature extraction and classification:
 
 - HOG (Histogram of Oriented Gradients): captures edge and gradient structure
 - SVM (Support Vector Machine): classifies faces using a separating hyperplane
-![HOGandSVM](https://github.com/user-attachments/assets/9f33f29f-5fb6-4796-a50c-767ef7a50334)
 <img width="1544" height="307" alt="HoG2SVM" src="https://github.com/user-attachments/assets/9b345be6-bd8f-48c1-b8ca-1f864679d6e1" />
 
 **Pros:**
