@@ -85,9 +85,6 @@ This approach combines feature extraction and classification:
 - HOG (Histogram of Oriented Gradients): captures edge and gradient structure
 - SVM (Support Vector Machine): classifies faces using a separating hyperplane
 ![HOGandSVM](https://github.com/user-attachments/assets/9f33f29f-5fb6-4796-a50c-767ef7a50334)
-<img width="1600" height="403" alt="LBPH1" src="https://github.com/user-attachments/assets/48993f87-cd43-43a5-a1d6-85a7b497d8c2" />
-<img width="667" height="186" alt="LBPH" src="https://github.com/user-attachments/assets/49c9c33a-a4d5-43b8-821d-296c3560ba80" />
-![HOGandSVM](https://github.com/user-attachments/assets/50f0f3c8-281a-4e7b-a0a2-b253c23eb4d9)
 <img width="1544" height="307" alt="HoG2SVM" src="https://github.com/user-attachments/assets/9b345be6-bd8f-48c1-b8ca-1f864679d6e1" />
 
 **Pros:**
